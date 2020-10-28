@@ -1,5 +1,5 @@
 mudule.export = {
-  toUpperCase() {},
+  toUpperCases() {},
   toLowerCase() {},
   toDecimal() {},
 }
