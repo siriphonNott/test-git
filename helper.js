@@ -1,3 +1,4 @@
 mudule.export = {
   toUpperCase() {},
+  toLowerCase() {},
 }
