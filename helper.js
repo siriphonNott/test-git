@@ -1,5 +1,8 @@
 mudule.export = {
   toUpperCases() {},
   toLowerCase() {},
-  toDecimal() {},
+  toDecimal() {
+    let fname = 'nott'
+    let lname = 'dev'
+  },
 }
